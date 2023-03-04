@@ -11,6 +11,8 @@ git config --global user.name "Mona Lisa"
 git config --global user.email "YOUR_EMAIL" 
 ```
 -  Complete Creating a Git Repository task 9 in the python course
+
+![GitHub Flow Image](git.png)
 ### Commands
 - git status
 - git clone
@@ -28,3 +30,4 @@ git config --global user.email "YOUR_EMAIL"
 - Installing git - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 - Setting your commit email address - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address
 - Setting up your username - https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git?platform=mac
+- Markdown - https://www.markdownguide.org/extended-syntax/
